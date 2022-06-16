@@ -54,7 +54,7 @@
 
 <div align="center">
   <a href="https://github.com/houdaibr/site--commerce">
-    <img src="src/pictures/p1.PNG" alt="Logo">
+    <img src="C:\Users\houda\Documents\GitHub\site--commerce\commerce\src\pictures\p1.PNG" alt="Logo">
     <img src="./src/pictures/P2.PNG" alt="Logo">
     <img src="./src/pictures/P3.PNG" alt="Logo">
     <img src="./src/pictures/P4.PNG" alt="Logo">
